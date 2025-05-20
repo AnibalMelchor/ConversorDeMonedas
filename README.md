@@ -19,7 +19,6 @@
 -El menu es un bucle que se va mostrando hasta que el usuario ingresa la opcion de salir 
 
 ## 📦 Estructura del proyecto
-
 ```bash
 .
 ConversorMonedas
@@ -30,3 +29,9 @@ ConversorMonedas
 │   └── Monedas.java           # Clase para mapear la respuesta JSON
 ├── README.md
 └── ...
+```
+
+<ul>Desarrolador:
+    <li>Anibal Melchor Cordero</li>
+</ul>
+
